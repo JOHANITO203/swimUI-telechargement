@@ -8,13 +8,15 @@
 
 ## Ce que swimUI ajoute à Windows
 
-- **Une barre de menus** en haut de l'écran, avec les menus de l'app active, la batterie, le wifi, la recherche et l'heure.
-- **Un dock** qui grossit sous le pointeur, avec des pastilles de notifications, une corbeille qui se remplit et le glisser-déposer de fichiers.
-- **Une recherche** pour ouvrir une app, un réglage ou un document au clavier (Alt + Espace).
+- **Une barre de menus** en haut de l'écran, avec les menus de l'app active, la batterie, le wifi, la recherche et l'heure. Vous pouvez y garder les réglages du son et de l'affichage.
+- **Un dock** avec des pastilles de notifications, une corbeille qui se remplit, le glisser-déposer de fichiers et quatre styles d'icônes : par défaut, sombre, teinté et clair.
+- **Une recherche** au clavier (Alt + Espace) pour ouvrir une app, un réglage ou un document. Elle a quatre modes : applications, fichiers, actions et presse-papiers. Elle convertit aussi les unités, comme « 12 km en miles », et apprend vos raccourcis.
+- **Un centre de contrôle** avec le wifi, le Bluetooth, la luminosité, le son et la sortie audio, et une page pour la musique en cours. Vous choisissez vos commandes, leur ordre et leur taille.
+- **La liste de vos applications**, en grille ou en liste, à parcourir au clavier.
 - **La vue d'ensemble** de toutes vos fenêtres, des coins actifs, et le placement des fenêtres en moitiés de l'écran.
-- **Des widgets** sur le bureau : horloge, calendrier, météo, batterie, musique, système.
+- **Des widgets** sur le bureau : horloge, calendrier, météo, batterie, musique et système, jusqu'à quatre tailles selon le widget.
 
-swimUI est une application native. Au repos, elle n'utilise pas le processeur et occupe environ 190 Mo de mémoire.
+swimUI est une application native. Au repos, elle n'utilise pas le processeur et occupe environ 200 Mo de mémoire.
 
 ## Installer
 
