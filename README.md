@@ -8,7 +8,7 @@
 
 ## Ce que swimUI ajoute à Windows
 
-- **Une barre de menus** en haut de l'écran, avec les menus de l'app active, la batterie, le wifi, la recherche et l'heure. Vous pouvez y garder les réglages du son et de l'affichage.
+- **Une barre de menus** en haut de l'écran, avec les menus de l'app active, la batterie, le wifi, la recherche et l'heure. Vous pouvez y garder les réglages du son et de l'affichage. Chaque menu naît sous son titre, en verre qui s'étire.
 - **Un dock** avec des pastilles de notifications, une corbeille qui se remplit, le glisser-déposer de fichiers et quatre styles d'icônes : par défaut, sombre, teinté et clair.
 - **Une recherche** au clavier (Alt + Espace) pour ouvrir une app, un réglage ou un document. Elle a quatre modes : applications, fichiers, actions et presse-papiers. Elle convertit aussi les unités, comme « 12 km en miles », et apprend vos raccourcis.
 - **Un centre de contrôle** avec le wifi, le Bluetooth, la luminosité, le son et la sortie audio, et une page pour la musique en cours. Vous choisissez vos commandes, leur ordre et leur taille.
