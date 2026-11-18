@@ -14,7 +14,7 @@
 - **Un centre de contrôle** avec le wifi, le Bluetooth, la luminosité, le son et la sortie audio, et une page pour la musique en cours. Vous choisissez vos commandes, leur ordre et leur taille.
 - **La liste de vos applications**, en grille ou en liste, à parcourir au clavier.
 - **La vue d'ensemble** de toutes vos fenêtres, des coins actifs, et le placement des fenêtres en moitiés de l'écran.
-- **Des widgets** sur le bureau : horloge, calendrier, météo, batterie, musique et système, jusqu'à quatre tailles selon le widget.
+- **Des widgets** sur le bureau : horloge, calendrier, météo, batterie, musique et système, en une à quatre tailles selon le widget.
 
 swimUI est une application native. Au repos, elle n'utilise pas le processeur et occupe environ 200 Mo de mémoire.
 
